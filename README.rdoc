@@ -1,0 +1,8 @@
+
+= The AuroraMySQL Connection Adapter Plugin
+
+YES
+
+== License
+
+See the LICENSE file for licensing information.
