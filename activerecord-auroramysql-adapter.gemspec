@@ -9,7 +9,7 @@ Gem::Specification.new do |s|
 
   s.require_paths = ["lib"]
   s.authors = ["Marc Seiler"]
-  s.summary = "Theadapter for Aurora MySQL"
+  s.summary = "The adapter for Aurora MySQL"
   s.description = "auroramysql."
   s.email = "mseiler@gmail.com"
   s.extra_rdoc_files = [
